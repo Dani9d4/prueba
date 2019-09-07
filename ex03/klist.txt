@@ -1,0 +1,6 @@
+c1r4s1% klist
+Credentials cache: API:4422
+        Principal: ddiaz-ba@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep  4 19:55:13 2019  Sep  5 05:55:07 2019  krbtgt/42MADRID.COM@42MADRID.COM

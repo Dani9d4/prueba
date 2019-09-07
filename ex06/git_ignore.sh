@@ -1,3 +1,3 @@
 #! /bin/bash
 
-git check-ignore -v *
+git check-ignore *
